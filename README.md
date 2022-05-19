@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+The day I started The Odin Project -- First commit
